@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.77805"
+    ],
+    "filament_settings_id": [
+        "Stratasys ABS Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Stratasys ABS Flow Rate Calibrated",
+    "version": "2.5.0.14"
+}
